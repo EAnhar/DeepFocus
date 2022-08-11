@@ -24,11 +24,12 @@
     float: right;
     padding-top: 3%;
 }
-.nav ul li{
+.nav ul li a{
     color: white;
     font-size: 16px;
     font-weight: bold;
     margin-right: 50px;
+    text-decoration: none;
 }
 /*  ------------Sign in / sign up form-------------- */
 .signForm{
